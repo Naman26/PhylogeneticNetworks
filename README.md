@@ -1,4 +1,4 @@
-# Research-in-Julia
+# Reconstructing Phylogenetics Networks of Bacteria
 Creating a level 1 Phylogenetic Tree
 
 ## Built By 
